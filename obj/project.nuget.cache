@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TBNj1VWfOmA=",
+  "success": true,
+  "projectFilePath": "/home/uriel/.local/share/Terraria/tModLoader/ModSources/Teresa/Teresa.csproj",
+  "expectedPackageFiles": [
+    "/home/uriel/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.30/microsoft.aspnetcore.app.ref.8.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}
